@@ -1,3 +1,4 @@
+## Network Optimization
 Network optimization has been an important area in the current research in computer science and computer engineering. In this course project, you will implement a network routing protocol using the data structures and algorithms we have studied in class. This provides you with an opportunity to translate your theoretical understanding into a real- world practical computer program. Translating algorithmic ideas at a “higher level” of abstraction into real implementations in a particular programming language is not at all always trivial. The implementations often force you to work on more details of the algorithms, which sometimes may lead to much better understanding.
 Your implementation should include the following parts:
 1. Random Graph Generation. Write subroutines that generate two kinds of “ran- dom” undirected graphs of 5000 vertices.
