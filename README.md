@@ -24,3 +24,4 @@ Since the heap structure you implement will be used for a Dijkstra-style algorit
 
 4. Testing: Test you routing algorithms on 5 pairs of graphs G1 and G2, randomly generated using your subroutines implemented in Step 1. For each generated graph, pick at least 5 pairs of randomly selected source-destination vertices. For each source-destination pair (s, t) on a graph G, run each of the three algorithms on the pair (s, t) and the graph G, and record their running time (you should find a proper way to "count" the running time of an algorithm).
 
+To run the program: `python main.py`
